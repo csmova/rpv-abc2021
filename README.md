@@ -11,7 +11,7 @@ The in vivo data and recording sheet can be found:\
 
 All raw data was acquired and processed with our in-house software, SeroWare, which is soon-to-be-released as open-source as of June 2023. Until SeroWare is released, the processed data is provided in Excel sheet format.
 
-Code for the PCR/PLSR analyses is provided in Jupyter Notebook format and written in Python. See publication for package and version information. Our reccomendation is to install via Anaconda (see anaconda.com).
+Code for the PCR/PLSR analyses is provided in Jupyter Notebook format and written in Python. See publication for package and version information. Our recommendation is to install via Anaconda (see anaconda.com).
 
 Abbreviations:\
 -BS/NBS: background subtracted/non-background subtracted\
