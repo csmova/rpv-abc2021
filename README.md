@@ -11,11 +11,11 @@ All raw data was acquired and processed with our in-house software, SeroWare, wh
 
 Code for the PCR/PLSR analyses is provided in Jupyter Notebook format and written in Python. See publication for package and version information. Our reccomendation is to install via Anaconda (see anaconda.com).
 
-Abbreviations:
--BS/NBS: background subtracted/non-background subtracted
--NA/25A: non averaged/average (integer refers to # +/- voltammograms averaged, e.g., 25)
--PulseCut/TriCut: refers to if the pulse voltammogram or triangle voltammogram portion of the waveform was extracted, respectivley. See publication.
--PostCal: post-in vivo implantation calibration data for the PEDOT:Nafion carbon fiber electrode used, for analytes dopamine (DA) and serotonin (5HT). Concentrations are given in the publication.
+Abbreviations:\
+-BS/NBS: background subtracted/non-background subtracted\
+-NA/25A: non averaged/average (integer refers to # +/- voltammograms averaged, e.g., 25)\
+-PulseCut/TriCut: refers to if the pulse voltammogram or triangle voltammogram portion of the waveform was extracted, respectivley. See publication.\
+-PostCal: post-in vivo implantation calibration data for the PEDOT:Nafion carbon fiber electrode used, for analytes dopamine (DA) and serotonin (5HT). Concentrations are given in the publication.\
 -KP/MD/CM/HY are author initials who acquired/processed data. P stands for processed data file. 01132019 refers to date of acqusition. S1505 refers to mouse ID.
 
 
